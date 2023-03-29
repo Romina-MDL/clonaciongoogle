@@ -27,4 +27,4 @@ En este proyecto me enfoqué en contruir la clonacion de la intefax de Google. C
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ## 4. Link a Demo 
-Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](#)
+Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](https://hilarious-hotteok-732638.netlify.app/)
