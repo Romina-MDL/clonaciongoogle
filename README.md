@@ -3,10 +3,10 @@
 
 ## **ÍNDICE** 
 
-*  [1. Intro](https://github.com/Romina-MDL/clonaciongoogle/edit/main/README.md#1-intro)
-*  [2. Qué contruí](https://github.com/Romina-MDL/clonaciongoogle/edit/main/README.md#2-qu%C3%A9-contru%C3%AD)
-*  [3. Objetivo del Proyecto](https://github.com/Romina-MDL/clonaciongoogle/edit/main/README.md#objetivo-del-proyecto)
-*  [4. Link a Demo](https://github.com/Romina-MDL/clonaciongoogle/edit/main/README.md#link-a-demo)
+*  [1. Intro](https://github.com/Romina-MDL/clonaciongoogle/blob/main/README.md#1-intro)
+*  [2. Qué contruí](https://github.com/Romina-MDL/clonaciongoogle/blob/main/README.md#2-qu%C3%A9-contru%C3%AD)
+*  [3. Objetivo del Proyecto](https://github.com/Romina-MDL/clonaciongoogle/blob/main/README.md#objetivo-del-proyecto)
+*  [4. Link a Demo](https://github.com/Romina-MDL/clonaciongoogle/blob/main/README.md#link-a-demo)
 
 ****
 
